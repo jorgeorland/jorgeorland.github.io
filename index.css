@@ -1,0 +1,48 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #666;
+}
+
+p {
+  color: #999;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Estilos del botón */
+button {
+  background-color: #4285f4;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #3367d6;
+}
+
+/* Estilos del enlace */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
